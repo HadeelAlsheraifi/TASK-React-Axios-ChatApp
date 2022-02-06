@@ -7073,7 +7073,7 @@
   dependencies:
     "mobx-react-lite" "^3.2.0"
 
-"mobx@^6.1.0", "mobx@^6.3.3":
+"mobx@^6.1.0", "mobx@^6.3.13":
   "integrity" "sha512-zDDKDhYUk9QCHQUdLG+wb4Jv/nXutSLt/P8kkwHyjdbrJO4OZS6QTEsrOnrKM39puqXSrJZHdB6+yRys2NBFFA=="
   "resolved" "https://registry.npmjs.org/mobx/-/mobx-6.3.13.tgz"
   "version" "6.3.13"
